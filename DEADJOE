@@ -1,0 +1,29 @@
+
+*** These modified files were found in JOE when it aborted on Sun Jul  9 15:23:16 2023
+*** JOE was aborted because the terminal closed
+
+*** File '(Unnamed)'
+/home/sense/itsa-2023/.git/COMMIT_EDITMSG
+
+*** File '/home/sense/itsa-2023/.git/COMMIT_EDITMSG'
+Initial commit
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Date:      Sun Jul 9 15:22:24 2023 +0800
+#
+# On branch main
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   index.html
+#	new file:   index.js
+#	new file:   style.css
+#
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
